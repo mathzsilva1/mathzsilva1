@@ -1,6 +1,6 @@
 Hi there 👋
 
-My name is matheus, welcome to my profile
+My name is matheus, welcome to my profile.
 
 - 🌱 I’m currently learning HTML/Java/CSS/C#
 - 👯 I'm looking to collaborate on all kinds of projects
