@@ -2,9 +2,9 @@ Hi there 👋
 
 My name is matheus, welcome to my profile.
 
-- 🌱 I’m currently learning HTML/Java/CSS/C#
+- 🌱 I’m currently learning HTML/PHP/CSS/C#
 - 👯 I'm looking to collaborate on all kinds of projects
-- 🤔 I’m looking for help with Javascript and Java
+- 🤔 I’m looking for help with PHP and C#
 - 📫 How to reach me: @mathzsilva_
 
 <div align="center">
